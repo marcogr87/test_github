@@ -4,4 +4,6 @@ Este es una buena herramienta para empezar a revisar la parte dos del curso esto
 
 Esta es mi carpeta de programacion. 
 
-Este es combio para provar la parte dos del curso. 
+Este es combio para provar la parte dos del curso.
+
+otro cambiogit 
