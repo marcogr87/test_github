@@ -8,4 +8,6 @@ Este es combio para provar la parte dos del curso.
 
 se ha anadido informacion desde la consola linux. 
 
+contribucion como colaborador marcogr123
+
 cambio final de pruebas
